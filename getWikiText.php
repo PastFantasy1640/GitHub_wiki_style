@@ -17,5 +17,3 @@ function getWikiText($user_name, $repository_name, $page){
 	return $html_str;
 }
 
-?>
-
